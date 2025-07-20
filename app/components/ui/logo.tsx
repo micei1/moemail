@@ -11,8 +11,8 @@ export function Logo() {
       <div className="relative w-8 h-8">
         <div className="absolute inset-0 grid grid-cols-8 grid-rows-8 gap-px">
           <svg
-            width="0"
-            height="0"
+            width="1"
+            height="1"
             viewBox="0 0 32 32"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
