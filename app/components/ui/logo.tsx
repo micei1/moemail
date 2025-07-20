@@ -13,7 +13,7 @@ export function Logo() {
           <svg
             width="0"
             height="0"
-            viewBox="0 0 32 32"
+            viewBox="0 0 0 0"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
             className="text-primary"
@@ -57,6 +57,7 @@ export function Logo() {
           </svg>
         </div>
       </div>
+      <img width="32" height="32" src="/icons/icon-192x192.png">
       <span className="font-bold tracking-wider bg-clip-text text-transparent bg-gradient-to-r from-primary to-purple-600">
         VCUS - Email
       </span>
