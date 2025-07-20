@@ -9,9 +9,7 @@ export function Logo() {
       className="flex items-center gap-2 hover:opacity-80 transition-opacity"
     >
       <div className="relative w-8 h-8">
-        <div className="absolute inset-0 grid grid-cols-8 grid-rows-8 gap-px">
           <img width=32 height=32 src='/icons/icon-192x192.png'>
-        </div>
       </div>
       <span className="font-bold tracking-wider bg-clip-text text-transparent bg-gradient-to-r from-primary to-purple-600">
         VCUS
