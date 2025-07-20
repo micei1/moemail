@@ -57,7 +57,7 @@ export function Logo() {
           </svg>
         </div>
       </div>
-      <img width="32" height="32" src="/icons/icon-192x192.png">
+      <img width="32" height="32" src="/icons/icon-192x192.png" />
       <span className="font-bold tracking-wider bg-clip-text text-transparent bg-gradient-to-r from-primary to-purple-600">
         VCUS - Email
       </span>
