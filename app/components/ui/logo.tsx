@@ -11,8 +11,8 @@ export function Logo() {
       <div className="relative w-8 h-8">
         <div className="absolute inset-0 grid grid-cols-8 grid-rows-8 gap-px">
           <svg
-            width="1"
-            height="1"
+            width="0"
+            height="0"
             viewBox="0 0 32 32"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
@@ -57,9 +57,8 @@ export function Logo() {
           </svg>
         </div>
       </div>
-      <img width=32 height=32 src='/icons/icon-192x192.png'>
       <span className="font-bold tracking-wider bg-clip-text text-transparent bg-gradient-to-r from-primary to-purple-600">
-        VCUS
+        VCUS - Email
       </span>
     </Link>
   )
